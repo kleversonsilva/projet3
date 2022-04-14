@@ -1,0 +1,64 @@
+
+/*
+@import url("style.css"); 
+   body{
+    margin: 0;
+    background: rgb(241, 232, 232); 
+    color: rgb(67, 22, 170);
+   }
+
+   */
+   @import url("style.css"); 
+   *{
+    margin: 0;
+    background: rgb(241, 232, 232); 
+    color: rgb(67, 22, 170);
+
+   }
+   *{
+       font-family: Verdana, Geneva, Tahoma, sans-serif;/*a fonte verdana p/toso projeto*/
+   }
+
+   p{
+       font-family:Verdana, Geneva, Tahoma, sans-serif;
+       font-size: 40;
+       background-color:bisque; /*atualizar cor(backgraud) bisque*/
+   }
+   #para2{
+       text-align: center; /*alinha paragrafo2.NoCentro*/
+   }
+   #para1{
+    text-align: center;
+  
+    }
+
+   h1{
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+       color: rgb(37, 70, 102);
+       text-align: center;
+       text-decoration: underline; /*Sublinhou*/
+
+   }
+   th{
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+       color: blue;
+       text-align: center;
+
+        }
+        img {    /*alterei a imagem*/
+            max-width: 320%;
+            max-height: 240%;
+           }
+           table, th ,td{
+            border: 1px solid;
+           }
+           address{
+               padding: 20px;
+               background-color: rgb(131, 164, 224);
+               border-radius: 10px;
+               
+           }
+           
+
+    
+    
