@@ -1,0 +1,46 @@
+@import url(pasta3.css);
+*{
+    
+    background-color: rgb(240, 235, 229);
+    border-radius: 10px; /*borda de dentro*/
+   
+    }
+   /* ul{
+        border-radius: 20;
+        
+    }
+    */
+    body{
+        padding: 100px;
+        background-color: rgb(207, 195, 178);
+        border-radius: 0px;
+    }
+    #para1{
+        text-align: center;
+    }
+
+/*{ 
+    text-align: center;
+}
+*/
+img{
+    border-radius: 40px;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+/*
+*{
+    background-color: aquamarine;
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    transform: (-20%, -20%);
+    padding: 20px;
+    border-radius: 20px;
+    color: rgb(94, 62, 21);
+}
+*/
+
+        
+        
