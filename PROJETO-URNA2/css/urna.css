@@ -1,0 +1,8 @@
+
+.base{  
+height: 100vh; /*100porcento da tela.display posidionaelementos*/
+display: flex;
+justify-content: center;/*conteudo no centro eixo X*/
+align-items: center; /*centro eixo y*/
+
+}
